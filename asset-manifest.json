@@ -1,13 +1,13 @@
 {
-  "main.css": "/static/css/main.0f07bc60.chunk.css",
-  "main.js": "/static/js/main.602decdc.chunk.js",
-  "main.js.map": "/static/js/main.602decdc.chunk.js.map",
-  "static/js/1.8b31409a.chunk.js": "/static/js/1.8b31409a.chunk.js",
-  "static/js/1.8b31409a.chunk.js.map": "/static/js/1.8b31409a.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.229c360f.js",
-  "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
-  "static/css/main.0f07bc60.chunk.css.map": "/static/css/main.0f07bc60.chunk.css.map",
-  "index.html": "/index.html",
-  "precache-manifest.44d8154f27ed5c6696fdc77eee25d685.js": "/precache-manifest.44d8154f27ed5c6696fdc77eee25d685.js",
-  "service-worker.js": "/service-worker.js"
+  "main.css": "/laugustofrontend/panel-admin/static/css/main.59b1ca12.chunk.css",
+  "main.js": "/laugustofrontend/panel-admin/static/js/main.159cba27.chunk.js",
+  "main.js.map": "/laugustofrontend/panel-admin/static/js/main.159cba27.chunk.js.map",
+  "static/js/1.5d0e4c06.chunk.js": "/laugustofrontend/panel-admin/static/js/1.5d0e4c06.chunk.js",
+  "static/js/1.5d0e4c06.chunk.js.map": "/laugustofrontend/panel-admin/static/js/1.5d0e4c06.chunk.js.map",
+  "runtime~main.js": "/laugustofrontend/panel-admin/static/js/runtime~main.941f0928.js",
+  "runtime~main.js.map": "/laugustofrontend/panel-admin/static/js/runtime~main.941f0928.js.map",
+  "static/css/main.59b1ca12.chunk.css.map": "/laugustofrontend/panel-admin/static/css/main.59b1ca12.chunk.css.map",
+  "index.html": "/laugustofrontend/panel-admin/index.html",
+  "precache-manifest.a0e7361f169c8621b481942c92a93bd0.js": "/laugustofrontend/panel-admin/precache-manifest.a0e7361f169c8621b481942c92a93bd0.js",
+  "service-worker.js": "/laugustofrontend/panel-admin/service-worker.js"
 }
