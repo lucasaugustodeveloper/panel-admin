@@ -23,7 +23,7 @@
   "bugs": {
     "url": "https://github.com/laugustofrontend/panel-admin/issues"
   },
-  "homepage": "https://github.com/laugustofrontend/panel-admin#readme",
+  "homepage": "",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
